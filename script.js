@@ -5,7 +5,7 @@ const container = document.querySelector('.container');
 // Khi bấm Có
 box1.addEventListener('click', () => {
   container.innerHTML = `<canvas id="c"></canvas>
-  <div id="congrats">🎉 Chúc mừng bạn đã chọn đúng rồi đó ^^ 🎉</div>`;
+  <div id="congrats">🎉 Chúc mừng chị đã chọn đúng rồi đó !!!🎉</div>`;
   startFireworkAnimation();
 });
 
