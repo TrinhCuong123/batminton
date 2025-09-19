@@ -16,7 +16,7 @@
   left: 10px;
   width: 100%;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 .text-title {
